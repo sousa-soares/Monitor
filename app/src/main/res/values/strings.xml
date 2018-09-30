@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor</string>
+
+    <string name="enable_apps_monitor">Ativar monitoramento</string>
+    <string name="disable_apps_monitor">Destivar monitoramento</string>
+    <string name="enable_apps_monitoring">Monitorando</string>
+    <string name="grant_success">Permissão adquirida</string>
+    <string name="not_support">Seu aparelho não suporta monitoramento</string>
+
+    <string name="hide_system_apps">Esconder Apps do sistema</string>
+    <string name="hide_uninstall_apps">Esconder Apps desinstalados</string>
+    <string name="ignore_list">Apps Ignorados</string>
+    <string name="ignore_hint">Apps nesta lista não serão mostrados</string>
+    <string name="ignore_success">Movido para lista de ignorados com sucesso</string>
+
+    <string name="ignore">Ignorar este App</string>
+    <string name="app_info">Informações do App</string>
+    <string name="more">Mais detalhes</string>
+
+    <string name="settings">Configurações</string>
+    <string name="sort">Ordenar por</string>
+    <string name="toast_permission">Encontre \"Apps Monitor\" e permita acesso de uso</string>
+    <string name="times">vezes</string>
+    <string name="total">%1$s</string>
+</resources>
